@@ -1,0 +1,247 @@
+.nav {
+    font-size: 20px;
+}
+
+.box1 {
+    background-image: url("pink-and-white-flowers-on-white-wall-2395249.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    padding: 0 20px;
+}
+
+.color {
+    color: rgb(146, 125, 100);
+}
+
+.text {
+    font-size: 25px;
+    font-family: Baskervville;
+    padding-top: 50px;
+}
+
+.text1 {
+    font-family: Baskervville;
+    padding-top: 30px;
+}
+
+.text2 {
+    margin-left: 140px;
+}
+
+.text3 {
+    margin-left: 150px;
+    line-height: 0.1px;
+    color: rgb(94, 92, 92);
+}
+
+.text4 {
+    margin-left: 280px;
+    color: black;
+}
+
+.text5 {
+    margin-left: 325px;
+    color: rgb(94, 92, 92);
+
+}
+
+.text6 {
+    margin-left: 220px;
+    color: black;
+
+}
+
+.text7 {
+    color: rgb(94, 92, 92);
+    margin-left: 280px;
+}
+
+.text8 {
+    margin-left: 305px;
+    color: rgb(94, 92, 92);
+}
+
+.text9 {
+    margin-left: 270px;
+    color: black;
+
+}
+
+.pic1 {
+    margin-top: 2px;
+    width: 348px;
+}
+
+.pic2 {
+    margin-top: 2px;
+    width: 279px;
+}
+
+.pic3 {
+    margin-top: 2px;
+    width: 353px;
+}
+
+.cactus {
+    margin-left: 115px;
+    color: black;
+    line-height: 0.5px;
+    margin-top: 10px;
+}
+
+.rose1 {
+    margin-left: 230px;
+    color: black;
+
+}
+
+.tulip {
+    margin-left: 245px;
+    color: black;
+}
+
+.rose2 {
+    margin-left: 250px;
+    color: black;
+}
+
+.pinkrose {
+    margin-left: 250px;
+    color: black;
+}
+
+.cena {
+    margin-left: 120px;
+    color: rgb(94, 92, 92);
+}
+
+.cena1 {
+    margin-left: 240px;
+    color: rgb(94, 92, 92);
+}
+
+
+.rosey {
+    margin-left: 255px;
+    color: rgb(94, 92, 92);
+}
+
+.rosep {
+    margin-left: 270px;
+    color: rgb(94, 92, 92);
+}
+
+.bacgr {
+    background: gray;
+}
+
+.gallery {
+    text-align: center;
+    font-size: 20px;
+    font-family: Baskervville;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.group18 {
+    width: 1200px;
+    margin-left: 100px;
+    text-align: center;
+
+}
+
+.textex {
+    text-align: center;
+    font-family: Baskervville;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.name {
+    font-family: Baskervville;
+    margin-top: 10px;
+}
+
+.name1 {
+    font-family: Baskervville;
+    margin-left: 210px;
+    margin-top: 20px;
+    color: black;
+}
+
+.florist {
+    font-size: 14px;
+    font-family: Baskervville;
+    color: rgb(94, 92, 92);
+    margin-bottom: 60px;
+}
+
+.florist1 {
+    margin-left: 270px;
+    font-size: 14px;
+    font-family: Baskervville;
+    color: rgb(94, 92, 92);
+}
+
+.florist1 {
+    margin-left: 270px;
+    font-size: 14px;
+    font-family: Baskervville;
+    color: rgb(94, 92, 92);
+}
+
+.florist2 {
+    margin-left: 240px;
+    font-size: 14px;
+    font-family: Baskervville;
+    color: rgb(94, 92, 92);
+}
+
+.fiora {
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.fiora1 {
+    width: 500px;
+    margin-top: 10px;
+}
+
+.fiora2 {
+    width: 1004px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.galery {
+    width: 1004px;
+    margin-left: 200px;
+    margin-top: 10px;
+    height: 300px;
+    margin-bottom: 1040px;
+}
+
+.testimonial {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.carouselWithFlowers{
+  width: 100%;
+}
+
+.carousel-inner img{
+  height: 80vh;
+  object-fit: cover;
+}
+
+.morePhotos img{
+    object-fit: cover;
+    height: 300px;
+    height: 50vh;
+}
